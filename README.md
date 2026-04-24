@@ -26,7 +26,7 @@ Mini-Project-CSS/
 │
 ├── index.html
 ├── style.css
-└── assets/ (images/icons if used)
+└── assets/
 
 ---
 
